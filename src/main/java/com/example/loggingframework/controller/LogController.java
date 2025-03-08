@@ -23,11 +23,11 @@ import org.springframework.web.bind.annotation.RestController;
  *
  * @author Your Name
  * @version 1.0
- * @since 2023-10-01
  * @see org.springframework.web.bind.annotation.RestController
  * @see org.springframework.web.bind.annotation.GetMapping
  * @see org.springframework.web.bind.annotation.RequestParam
  * @see LogService
+ * @since 2023-10-01
  */
 @RestController
 public class LogController {
